@@ -14,7 +14,7 @@
 Junk Breaker (also called as Brick Breaker) is a Breakout clone which the player must smash a wall of bricks by deflecting a bouncing ball with a paddle. The paddle may move horizontally and is controlled with the BlackBerry's trackwheel, the computer's mouse or the touch of a finger (in the case of touchscreen). The player gets 3 lives to start with; a life is lost if the ball hits the bottom of the screen. When all the bricks have been destroyed, the player advances to a new, harder level. Many levels have unbreakable silver bricks. If all lives are lost, the game is over. 
 This project will modify the original Junk Breaker to deliver a better gaming experience. 
 
-[[File:Junk breaker.png|560 px|center]]
+![image](https://github.com/AyaseErii/Junk_breaker/assets/70917894/07f775e1-5090-47c3-9f2a-6d72658ad3a2)
 
 This project uses VGA (video designs cluster) as FPGA board display. VGA is an array of visual standard presented during the period of 1980s by IBM in their Personal Computers and is broadly upheld in illustrations equipment and screens. On the Hardware side, the VGA in this project as the traditional ones has Monitor, Color Information, and Adapter as following. 
 
@@ -29,7 +29,7 @@ Colors is represented by the intensities of each fundamental color (Red, Green, 
 
 Since the VGA monitor does not have memory, the monitor will not store the pixel information being written to it. In order to achieve a stable image display, The VGA Adapter does have its own memory, and it will be responsible for constantly sending out the pixel information.
 
-[[File:VGA pins conf.jpg|560 px|center]]
+![image](https://github.com/AyaseErii/Junk_breaker/assets/70917894/aad15af6-96c7-4731-9dd4-1157b83fe4d7)
 
 Above figure is the VGA cable pin configuration. Pin 1 to Pin 3 are the color information for the video. Pin 4, Pin 11, Pin 12, and Pin 15 are formerly used for Monitor ID through bit 0 to bit 3. Pin 5 and Pin 10 are the ground. Pin 6 to Pin 8 are the color return value. Pin 10 now connects to the +5V DC and powers EDID EEPROM chip. Pin 13 and Pin 14 are the horizontal synchronization and vertical synchronization also the clock data. 
 
@@ -65,7 +65,6 @@ By the end of the project, following progressions have been done to improve the 
 7. Randomness, for example where the ball starts, was taken consideration to ensure unique experience as each time play 
 
 ![image](https://github.com/AyaseErii/Junk_breaker/assets/70917894/b7472ade-4826-4e5f-a37c-7f037f3865d0)
-
 
 [Video link](https://drive.google.com/file/d/14iVcR7DsedkFIg9oaq4hHJ0VwIHtc9aL/view?usp=drivesdk) for the demo
 
