@@ -1,5 +1,8 @@
 # Final project FPGA: junk breaker (Sp22 Advanced Digital Lab)
 
+## Team Members
+Jun (Jerry) Yin, Xuanjia (Eric) Bi
+
 ## Objectives
 
 1. Develop a game in Field-programmable gate arrays (FPGAs)
