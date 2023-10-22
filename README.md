@@ -2,7 +2,9 @@
 
 ## Team Members
 Jun (Jerry) Yin, Xuanjia (Eric) Bi
+
 Department of Electrical and Computer Engineering
+
 University of Virginia
 
 ## Objectives
