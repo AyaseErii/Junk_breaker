@@ -26,6 +26,22 @@ A VGA Monitor acts as a grid of pixels -- 480 rows and each row consists of 640 
 Colors is represented by the intensities of each fundamental color (Red, Green, Blue). The monitor expects these values to be analog; thus, a DAC (Digital to Analog Convertor) is used. The DE2 Educational Board has a 10-bit DAC, that is, it uses 10 bits to represent the intensity of each channel (Red, Green, or Blue), for a total of 30 bits. Depending on the type of monitor and video card you use at home, your computer uses either 16, 24, or 32 bits to encode this color information.
 
 ### VGA Adapter:
+
 Since the VGA monitor does not have memory, the monitor will not store the pixel information being written to it. In order to achieve a stable image display, The VGA Adapter does have its own memory, and it will be responsible for constantly sending out the pixel information.
 
 [[File:VGA pins conf.jpg|560 px|center]]
+
+Above figure is the VGA cable pin configuration. Pin 1 to Pin 3 are the color information for the video. Pin 4, Pin 11, Pin 12, and Pin 15 are formerly used for Monitor ID through bit 0 to bit 3. Pin 5 and Pin 10 are the ground. Pin 6 to Pin 8 are the color return value. Pin 10 now connects to the +5V DC and powers EDID EEPROM chip. Pin 13 and Pin 14 are the horizontal synchronization and vertical synchronization also the clock data. 
+
+### VGA Technical Specs:
+
+* Selectable 25.175 MHz or 28.322 MHz master pixel clock
+* Maximum of 640 horizontal pixels (graphics mode)
+* Maximum of 480 lines
+* Refresh rates at 60 or 70 Hz
+* Packed-pixel mode: 256 colors
+* Maximum 256KB of onboard display memory
+ 
+This project uses 25.175 MHz Clock, 160 x 120 resolutions, and 8 color palettes for the simplicity of demonstration purpose.
+* Online Junk Breaker Game Please See [https://poki.com/en/g/brick-breaker]
+* VGA basics [https://ieeexplore.ieee.org/document/8529621]
