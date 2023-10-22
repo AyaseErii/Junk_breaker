@@ -43,8 +43,8 @@ Above figure is the VGA cable pin configuration. Pin 1 to Pin 3 are the color in
 * Maximum 256KB of onboard display memory
  
 This project uses 25.175 MHz Clock, 160 x 120 resolutions, and 8 color palettes for the simplicity of demonstration purpose.
-* Online Junk Breaker Game Please See [https://poki.com/en/g/brick-breaker]
-* VGA basics [https://ieeexplore.ieee.org/document/8529621]
+* [Online Junk Breaker Game](https://poki.com/en/g/brick-breaker)
+* [VGA basics](https://ieeexplore.ieee.org/document/8529621)
 
 ## Summary
 
