@@ -1,5 +1,5 @@
 # Final project junk breaker (Sp22 Advanced Digital Lab)
-'''Objectives'''
+#Objectives
 
 1. Develop a game in Field-programmable gate arrays (FPGAs)
 2. Familiarize with Hardware Description Languages (HDL) such as Verilog and VHDL
