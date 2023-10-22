@@ -64,7 +64,8 @@ By the end of the project, following progressions have been done to improve the 
 
 7. Randomness, for example where the ball starts, was taken consideration to ensure unique experience as each time play 
 
-[[File:FPGA BrickBreaker.jpeg|1080 px]]
+![image](https://github.com/AyaseErii/Junk_breaker/assets/70917894/b7472ade-4826-4e5f-a37c-7f037f3865d0)
+
 
 [Video link](https://drive.google.com/file/d/14iVcR7DsedkFIg9oaq4hHJ0VwIHtc9aL/view?usp=drivesdk) for the demo
 
