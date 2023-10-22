@@ -66,7 +66,7 @@ By the end of the project, following progressions have been done to improve the 
 
 [[File:FPGA BrickBreaker.jpeg|1080 px]]
 
-Video link for the demo [https://drive.google.com/file/d/14iVcR7DsedkFIg9oaq4hHJ0VwIHtc9aL/view?usp=drivesdk]
+[Video link](https://drive.google.com/file/d/14iVcR7DsedkFIg9oaq4hHJ0VwIHtc9aL/view?usp=drivesdk) for the demo
 
 Here are some future designs we planned to do if we had more time. 
 
@@ -78,3 +78,6 @@ Here are some future designs we planned to do if we had more time.
 
 4. Dual paddles and dual balls feature designs for multiple players mode
 
+## Presentation Slides
+
+[Presentation](https://myuva-my.sharepoint.com/:p:/g/personal/htf6ry_virginia_edu/Efsad7DfrsRFvuSE-EHW3wUB2KcXeU-cF4-Y-fO0vR213g?e=3ALmFX)
