@@ -45,3 +45,36 @@ Above figure is the VGA cable pin configuration. Pin 1 to Pin 3 are the color in
 This project uses 25.175 MHz Clock, 160 x 120 resolutions, and 8 color palettes for the simplicity of demonstration purpose.
 * Online Junk Breaker Game Please See [https://poki.com/en/g/brick-breaker]
 * VGA basics [https://ieeexplore.ieee.org/document/8529621]
+
+## Summary
+
+By the end of the project, following progressions have been done to improve the Junk Breaker:
+
+1. Most importantly, we have the playable game demo running smoothly in the FPGA Dec2-115 board
+
+2. This game has colorful junk bricks for better UX 
+
+3. Great amount of the junk bricks with meaningful junk brick arrangements 
+
+4. Due to the right amount of the throughput design, this project does not have noticeable delay
+
+5. Pause feature has been added on the board. 
+
+6. Correct tuning on the travelling speeds of the ball and the paddle. 
+
+7. Randomness, for example where the ball starts, was taken consideration to ensure unique experience as each time play 
+
+[[File:FPGA BrickBreaker.jpeg|1080 px]]
+
+Video link for the demo [https://drive.google.com/file/d/14iVcR7DsedkFIg9oaq4hHJ0VwIHtc9aL/view?usp=drivesdk]
+
+Here are some future designs we planned to do if we had more time. 
+
+1. Score Feature: the more junks have been eliminate, the higher score user will get
+
+2. Different gaming level: there could have been different sets of difficulty for the game, such as more junks or take more than one hit to eliminate the junks
+
+3. More randomness: the junks can appear in random positions
+
+4. Dual paddles and dual balls feature designs for multiple players mode
+
