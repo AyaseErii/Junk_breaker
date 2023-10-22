@@ -1,4 +1,4 @@
-# Final project junk breaker (Sp22 Advanced Digital Lab)
+# Final project FPGA: junk breaker (Sp22 Advanced Digital Lab)
 
 ## Objectives
 
